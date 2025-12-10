@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+tldextract
+newspaper3k
+requests
+beautifulsoup4
+htmldate
+deep-translator
+lxml
+lxml_html_clean
+nltk
